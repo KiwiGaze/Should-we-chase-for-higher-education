@@ -5,7 +5,6 @@ This project aims at inspecting the the costs of chasing for higher education an
 ## Timeline
 
 <details>
-<summary><strong>Project Timeline</strong></summary>
 <p>
   
 - **2024-03-28**: Start writing proposal
