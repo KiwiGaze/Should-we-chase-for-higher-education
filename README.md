@@ -1,8 +1,7 @@
 # Should we chase for higher education?
 This is a repository for HKU COMP2501 2024 Spring Project
 ## Timeline
-:::mermaid
-timeline
+:::timeline
     title History of Social Media Platform
     2002 : LinkedIn
     2004 : Facebook
