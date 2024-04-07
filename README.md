@@ -5,7 +5,7 @@ This project aims at inspecting the the costs of chasing for higher education an
 ## Timeline
 <p>
   
-- **2024-03-28**: Start writing proposal
+- **2024-03-28**: Start writing the proposal
 - **2024-04-11**: Proposal deadline and start researching
 - **2024-05-09**: Presentation video deadline
 </p>
