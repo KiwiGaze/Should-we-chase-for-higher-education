@@ -22,20 +22,12 @@ Despite the acknowledged value of higher education, its increasing financial bur
 
 ### Objectives and Goals:
 #### Primary Objective: To quantify the financial costs and gains associated with pursuing higher education degrees over the last few decades.
-#### Secondary Objectives:
-- To identify trends in the cost of higher education.
-- To analyze the return on investment (ROI) in terms of salary increments and career progression.
-- To examine the influence of various factors such as field of study, geographical location, and type of institution on the economic outcomes of higher education.
 #### Data Requirements and Sources:
 - Data on tuition fees and related costs from educational institutions, government databases, and educational research organizations.
 - Income data for individuals with varying levels of education, obtained from labor statistics bureaus, salary survey databases, and census data.
 #### Control Variables: 
 - Data on factors that might affect education outcomes, such as field of study, geographic location, and type of institution.
 ### Methodology:
-- **Data Collection**: Gather and consolidate data from multiple sources.
-- **Data Cleaning and Preprocessing**: Ensure the quality and consistency of data for analysis.
-- **Exploratory Data Analysis (EDA)**: Examine trends and patterns in education costs and earnings.
-- **Statistical Analysis and Modeling**: Employ regression models to understand the relationship between education level and financial returns, adjusting for confounding factors.
 - **ROI Calculation**: Develop models to calculate the return on investment for different degrees.
 #### Cost Metrics:
 - **Direct Costs**: Tuition fees, books, and materials, living expenses.
@@ -43,21 +35,18 @@ Despite the acknowledged value of higher education, its increasing financial bur
 - **Loan-related Costs**: Interest rates on student loans, average debt at graduation.
 #### Gain Metrics:
 - **Immediate Financial Gains**: Starting salary post-graduation, salary progression over 5, 10, and 20 years.
-- **Long-term Financial Gains**: Lifetime earnings differential compared to high school graduates.
+- **Long-term Financial Gains**: Lifetime earnings differential compared to a lower education degree.
 - **Non-financial Gains**: Employment rate, job satisfaction, health benefits, and other quality-of-life indicators associated with higher education levels.
 #### Detailed Methodological Steps:
 1. Data Collection and Preprocessing:
 - Gather detailed cost and gain metrics from a range of sources, ensuring data is standardized and comparable across different time periods and demographics.
 2. Exploratory Data Analysis (EDA):
-
 - Visualize trends in both costs and gains, identifying patterns and outliers.
 - Conduct preliminary comparisons across degree levels, fields of study, and other key factors.
 3. Cost Analysis:
-
 - Calculate total costs of education, incorporating both direct and indirect costs, for different degree paths.
 Analyze trends in student loan debt and its impact on financial outcomes post-graduation.
 4. Gain Analysis:
-
 - Analyze salary data to calculate immediate and long-term financial gains, adjusting for inflation and economic conditions.
 - Evaluate non-financial gains using available metrics, assessing the broader impacts of higher education on individual well-being and societal benefits.
 5. Cost-Benefit Analysis (CBA):
