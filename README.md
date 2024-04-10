@@ -50,26 +50,26 @@ Despite the acknowledged value of higher education, its increasing financial bur
 - Gather detailed cost and gain metrics from a range of sources, ensuring data is standardized and comparable across different time periods and demographics.
 2. Exploratory Data Analysis (EDA):
 
-Visualize trends in both costs and gains, identifying patterns and outliers.
-Conduct preliminary comparisons across degree levels, fields of study, and other key factors.
-Cost Analysis:
+- Visualize trends in both costs and gains, identifying patterns and outliers.
+- Conduct preliminary comparisons across degree levels, fields of study, and other key factors.
+3. Cost Analysis:
 
-Calculate total costs of education, incorporating both direct and indirect costs, for different degree paths.
+- Calculate total costs of education, incorporating both direct and indirect costs, for different degree paths.
 Analyze trends in student loan debt and its impact on financial outcomes post-graduation.
-Gain Analysis:
+4. Gain Analysis:
 
-Analyze salary data to calculate immediate and long-term financial gains, adjusting for inflation and economic conditions.
-Evaluate non-financial gains using available metrics, assessing the broader impacts of higher education on individual well-being and societal benefits.
-Cost-Benefit Analysis (CBA):
+- Analyze salary data to calculate immediate and long-term financial gains, adjusting for inflation and economic conditions.
+- Evaluate non-financial gains using available metrics, assessing the broader impacts of higher education on individual well-being and societal benefits.
+5. Cost-Benefit Analysis (CBA):
 
-Employ statistical models to compare costs and gains, determining the net economic value of different higher education degrees.
-Calculate the return on investment (ROI) for various degrees, considering both financial and non-financial benefits over time.
-Sensitivity Analysis:
+- Employ statistical models to compare costs and gains, determining the net economic value of different higher education degrees.
+- Calculate the return on investment (ROI) for various degrees, considering both financial and non-financial benefits over time.
+6. Sensitivity Analysis:
 
-Test the robustness of findings by varying key assumptions, such as interest rates, economic conditions, and job market trends.
-Final Report and Recommendations:
+- Test the robustness of findings by varying key assumptions, such as interest rates, economic conditions, and job market trends.
+7. Final Report and Recommendations:
 
-Synthesize findings into actionable insights, highlighting degrees and fields of study with the highest ROI and those that present challenges under current economic conditions.
+- Synthesize findings into actionable insights, highlighting degrees and fields of study with the highest ROI and those that present challenges under current economic conditions.
 
 ### Tools and Technologies:
 - Python is used for data processing and analysis, and libraries such as Pandas, NumPy, and Matplotlib are utilized for data manipulation and visualization.
