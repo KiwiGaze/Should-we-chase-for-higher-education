@@ -63,7 +63,6 @@ Analyze trends in student loan debt and its impact on financial outcomes post-gr
 ### Tools and Technologies:
 - Python is used for data processing and analysis, and libraries such as Pandas, NumPy, and Matplotlib are utilized for data manipulation and visualization.
 - R for statistical analysis, using packages like ggplot2 for advanced visualizations and lm for regression analysis.
-- SQL for managing and querying databases, if applicable.
 ### Expected Impact:
 This project aims to provide empirical evidence on the economic value of higher education, aid prospective students in making informed decisions, and contribute to policy discussions on education funding and structure.
 ### Risks and Challenges:
