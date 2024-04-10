@@ -32,17 +32,25 @@ Despite the acknowledged value of higher education, its increasing financial bur
 #### Control Variables: 
 - Data on factors that might affect education outcomes, such as field of study, geographic location, and type of institution.
 ### Methodology:
-- Data Collection: Gather and consolidate data from multiple sources.
-- Data Cleaning and Preprocessing: Ensure the quality and consistency of data for analysis.
-- Exploratory Data Analysis (EDA): Examine trends and patterns in education costs and earnings.
-- Statistical Analysis and Modeling: Employ regression models to understand the relationship between education level and financial returns, adjusting for confounding factors.
-- ROI Calculation: Develop models to calculate the return on investment for different degrees.
+- **Data Collection**: Gather and consolidate data from multiple sources.
+- **Data Cleaning and Preprocessing**: Ensure the quality and consistency of data for analysis.
+- **Exploratory Data Analysis (EDA)**: Examine trends and patterns in education costs and earnings.
+- **Statistical Analysis and Modeling**: Employ regression models to understand the relationship between education level and financial returns, adjusting for confounding factors.
+- **ROI Calculation**: Develop models to calculate the return on investment for different degrees.
+#### Cost Metrics:
+- **Direct Costs**: Tuition fees, books, and materials, living expenses.
+- **Indirect Costs**: Opportunity costs, such as loss of income during study periods.
+- **Loan-related Costs**: Interest rates on student loans, average debt at graduation.
+#### Gain Metrics:
+- **Immediate Financial Gains**: Starting salary post-graduation, salary progression over 5, 10, and 20 years.
+- **Long-term Financial Gains**: Lifetime earnings differential compared to high school graduates.
+- **Non-financial Gains**: Employment rate, job satisfaction, health benefits, and other quality-of-life indicators associated with higher education levels.
 ### Tools and Technologies:
-- Python for data processing and analysis, utilizing libraries such as Pandas, NumPy, and Matplotlib for data manipulation and visualization.
+- Python is used for data processing and analysis, and libraries such as Pandas, NumPy, and Matplotlib are utilized for data manipulation and visualization.
 - R for statistical analysis, using packages like ggplot2 for advanced visualizations and lm for regression analysis.
 - SQL for managing and querying databases, if applicable.
 ### Expected Impact:
-This project aims to provide empirical evidence on the economic value of higher education, aiding prospective students in making informed decisions and contributing to policy discussions on education funding and structure.
+This project aims to provide empirical evidence on the economic value of higher education, aid prospective students in making informed decisions, and contribute to policy discussions on education funding and structure.
 ### Risks and Challenges:
 - Data Privacy: Ensuring compliance with data protection regulations.
 - Data Availability and Quality: Potential limitations in accessing comprehensive and reliable data across different regions and time periods.
