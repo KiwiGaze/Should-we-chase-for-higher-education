@@ -1,0 +1,36 @@
+﻿Age,Education Level,Vigorous,Moderate
+25 and Older,Less Than a High School Diploma,15%,32%
+25 and Older,High School Diploma,19%,39%
+25 and Older,"Some College, No Degree",27%,40%
+25 and Older,Associate Degree,27%,41%
+25 and Older,Bachelor's Degree or Higher,42%,40%
+,,,
+25 to 34,Less Than a High School Diploma,28%,30%
+25 to 34,High School Diploma,29%,35%
+25 to 34,"Some College, No Degree",41%,32%
+25 to 34,Associate Degree,42%,32%
+25 to 34,Bachelor's Degree or Higher,54%,31%
+,,,
+35 to 44,Less Than a High School Diploma,22%,25%
+35 to 44,High School Diploma,29%,34%
+35 to 44,"Some College, No Degree",34%,38%
+35 to 44,Associate Degree,33%,41%
+35 to 44,Bachelor's Degree or Higher,48%,37%
+,,,
+45 to 54,Less Than a High School Diploma,13%,34%
+45 to 54,High School Diploma,21%,40%
+45 to 54,"Some College, No Degree",31%,36%
+45 to 54,Associate Degree,27%,41%
+45 to 54,Bachelor's Degree or Higher,44%,40%
+,,,
+55 to 64,Less Than a High School Diploma,10%,35%
+55 to 64,High School Diploma,16%,42%
+55 to 64,"Some College, No Degree",19%,45%
+55 to 64,Associate Degree,25%,45%
+55 to 64,Bachelor's Degree or Higher,38%,44%
+,,,
+65 and Older,Less Than a High School Diploma,8%,34%
+65 and Older,High School Diploma,10%,41%
+65 and Older,"Some College, No Degree",14%,47%
+65 and Older,Associate Degree,13%,45%
+65 and Older,Bachelor's Degree or Higher,23%,50%
